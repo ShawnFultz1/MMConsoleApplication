@@ -1,0 +1,4 @@
+C:\Projects\MMConsoleApplication\MMConsoleApplication\bin\Debug\MMConsoleApplication.exe
+C:\Projects\MMConsoleApplication\MMConsoleApplication\bin\Debug\MMConsoleApplication.pdb
+C:\Projects\MMConsoleApplication\MMConsoleApplication\obj\x86\Debug\MMConsoleApplication.exe
+C:\Projects\MMConsoleApplication\MMConsoleApplication\obj\x86\Debug\MMConsoleApplication.pdb
